@@ -1,0 +1,51 @@
+body {
+    background-color: #f1f1f1;
+    font-family: 'Arial', sans-serif;
+}
+
+.produto-form-box {
+    background-color: #ffffff;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.1);
+    width: 100%;
+    max-width: 100%;
+    text-align: center;
+}
+
+h2 {
+    margin-bottom: 20px;
+    font-size: 24px;
+    font-weight: bold;
+    color: #333333;
+}
+
+.form-label {
+    font-weight: bold;
+    text-align: left;
+    display: block;
+}
+
+.form-control {
+    border-radius: 5px;
+    margin-top: 5px;
+}
+
+.form-select {
+    border-radius: 5px;
+    margin-top: 5px;
+}
+
+.form-check-label {
+    font-size: 14px;
+    font-weight: normal;
+    color: #333333;
+}
+
+.btn-block {
+    width: 100%;
+    padding: 10px;
+    font-size: 16px;
+    border-radius: 5px;
+    margin-top: 20px;
+}
